@@ -23,4 +23,4 @@ Références :
 - SANAD Dataset  
 - AraGPT2 : aubmindlab/aragpt2-base
 
-🚀 Travail complet et reproductible.
+
